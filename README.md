@@ -1,5 +1,5 @@
-# canvi-clim-tic
-Aquest repositori conté pàgines web verificades i fiables per investigar sobre el canvi climàtic.
+# Canvi climàtic
+Aquest repositori conté pàgines web i recursos educatius verificats i fiables per investigar sobre el canvi climàtic.
 
 Concepte de canvi climàtic:
 - MITECO - Cambio climático https://www.miteco.gob.es/ca/cambio-climatico/temas.html
